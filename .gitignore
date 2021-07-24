@@ -1,0 +1,9 @@
+make a repository at github profile.
+then, 
+open git bash in the folder.
+1) git init
+2) git add .
+3) git commit -m "initial commit"
+4) git status
+5) git remote add origin <SSH link here>
+6) git push origin master
